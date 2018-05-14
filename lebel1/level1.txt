@@ -1,4 +1,0 @@
-This is the
-text
-for the 
-level 1
