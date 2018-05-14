@@ -13,6 +13,8 @@ to be displayed in the web browser
 
 ## How to contribute
 
+Please write here something i wrote
+
 ## Deployment
 
 This is a new change just ot test git diff
