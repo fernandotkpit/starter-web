@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 ## Introduction
 This is an example test 
 to be displayed in the web browser
+this was edited frmo github.com
 
 
 ## How to contribute
