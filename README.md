@@ -27,3 +27,5 @@ This is a new change just ot test git diff
 New sentence for test or what
 
 This was done for stash
+
+emergency line after stash
