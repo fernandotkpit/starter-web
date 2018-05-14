@@ -11,6 +11,6 @@ This is an example test
 to be displayed in the web browser
 
 
-##How to contribute
+## How to contribute
 
 ## Deployment
