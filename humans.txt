@@ -16,3 +16,5 @@ Please leave reaview
 
     HTML5, CSS3
     jQuery, Modernizr
+	
+	new values for stash

@@ -29,3 +29,6 @@ New sentence for test or what
 This was done for stash
 
 emergency line after stash
+
+
+Change for multiple stashes
