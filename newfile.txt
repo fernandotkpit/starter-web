@@ -1,3 +1,0 @@
-This is a second dummy file just 
-to test
-tracking of files
